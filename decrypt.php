@@ -6,7 +6,7 @@ include 'onglets.php';
     <form action="results.php" method="post" accept-charset="utf-8">
             <input type="password" name="mdp" placeholder="Password"><br/>
             <input type="hidden" name="type" value="decr">
-            <textarea name="encr" placeholder="Encrypt your text"></textarea><br/>
+            <textarea name="encr" placeholder="Decrypt your text"></textarea><br/>
             <button type="submit">Submit</button>
     </form>
 </div>
