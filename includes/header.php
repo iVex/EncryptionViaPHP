@@ -1,4 +1,4 @@
-<?php include 'includes/functions.php'; ?>
+<?php include 'includes/functions.php'; include 'bdd.php'; ?>
 <!doctype html>
 <html>
     <head>
